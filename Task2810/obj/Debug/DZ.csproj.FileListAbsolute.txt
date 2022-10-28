@@ -1,0 +1,8 @@
+C:\Users\ahmet\source\repos\DZ\Task2810\bin\Debug\Task2810.exe.config
+C:\Users\ahmet\source\repos\DZ\Task2810\bin\Debug\Task2810.exe
+C:\Users\ahmet\source\repos\DZ\Task2810\bin\Debug\Task2810.pdb
+C:\Users\ahmet\source\repos\DZ\Task2810\obj\Debug\DZ.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\DZ\Task2810\obj\Debug\DZ.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\source\repos\DZ\Task2810\obj\Debug\DZ.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\DZ\Task2810\obj\Debug\Task2810.exe
+C:\Users\ahmet\source\repos\DZ\Task2810\obj\Debug\Task2810.pdb

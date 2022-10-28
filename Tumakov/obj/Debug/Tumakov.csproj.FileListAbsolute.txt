@@ -1,0 +1,8 @@
+C:\Users\ahmet\source\repos\DZ\Tumakov\bin\Debug\Tumakov.exe.config
+C:\Users\ahmet\source\repos\DZ\Tumakov\bin\Debug\Tumakov.exe
+C:\Users\ahmet\source\repos\DZ\Tumakov\bin\Debug\Tumakov.pdb
+C:\Users\ahmet\source\repos\DZ\Tumakov\obj\Debug\Tumakov.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\DZ\Tumakov\obj\Debug\Tumakov.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\source\repos\DZ\Tumakov\obj\Debug\Tumakov.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\DZ\Tumakov\obj\Debug\Tumakov.exe
+C:\Users\ahmet\source\repos\DZ\Tumakov\obj\Debug\Tumakov.pdb
