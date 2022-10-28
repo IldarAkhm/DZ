@@ -24,5 +24,17 @@ namespace Class2
 
         public int Entrance { private set; get; }
         public void En(int entrance) => Entrance = entrance;
+
+        public string HeightFllor()
+        {
+            return $"{Height/Flor}";
+        }
+
+        public string CntFlatFlor()
+        {
+            return $"{Flor/Flat}";
+        }
+
+        public static int Rot = new House().Root;
     }
 }
